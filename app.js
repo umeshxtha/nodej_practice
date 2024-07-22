@@ -73,3 +73,7 @@ require('./7-mind-generate')
 // SayHi(names.BharatThapa);
 // SayHi(names.BipinRegmi);
 // SayHi("Umesh Kumar Shrestha")
+
+
+
+
